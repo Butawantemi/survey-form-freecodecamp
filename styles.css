@@ -7,4 +7,8 @@ body {
     background-color: #8888f2;
     color: #f5f6f7;
     font-family: "Poppins", sans-serif;
+    font-weight: 300;
+  font-style: normal;
+  line-height: 1.4;
+  margin: 0;
 }
