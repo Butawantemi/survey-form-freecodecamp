@@ -90,3 +90,7 @@ button[type=submit] {
     border-radius: 4px;
     cursor: pointer;
 }
+
+input[type=text],[type=email], [type=number], select, textarea {
+    width: 100%;
+}
