@@ -45,3 +45,7 @@ fieldset {
     padding: 2rem 0;
     border-bottom: 3px solid #3b3b4f;
 }
+
+label {
+    margin: 0.5rem 0;
+}
