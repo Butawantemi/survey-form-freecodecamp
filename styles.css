@@ -65,3 +65,7 @@ textarea {
     border: 1px solid #0a0a23;
     color: #ffffff;
 }
+
+.imline {
+    width: unset;
+}
