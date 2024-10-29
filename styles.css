@@ -58,3 +58,7 @@ select {
     width: 100%;
     min-height: 2em;
 }
+
+input, textarea {
+    background-color: #3b3b4f;
+}
