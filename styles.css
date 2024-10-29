@@ -30,3 +30,8 @@ p {
     background-color: #1b1b32;
     border-radius: 10px;
 }
+
+/* FORM */
+form {
+    padding: 1em;
+}
