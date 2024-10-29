@@ -33,5 +33,7 @@ p {
 
 /* FORM */
 form {
-    padding: 1em;
+    width: 60vw;
+  max-width: 500px;
+  min-width: 300px;;
 }
