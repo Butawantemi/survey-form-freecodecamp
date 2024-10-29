@@ -19,3 +19,10 @@ p {
     margin: 1em auto;
     text-align: center;
 }
+
+/* FORM CONTAINER */
+.container {
+    box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 600px;
+}
