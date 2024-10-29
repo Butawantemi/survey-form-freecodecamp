@@ -11,6 +11,16 @@
     <p id="description">Please fill out the form below to participate in our survey.</p>
     <div class="container">
         <form id="survey-form">
+            <fieldset>  
+                <label for="name" id="name-label">Name:</label>
+                <input type="text" id="name" name="name" placeholder="Enter your name" required><br><br>
+    
+                <label for="email" id="email-label">Email:</label>
+                <input type="email" id="email" name="email" placeholder="Enter your email" required><br><br>
+    
+                <label for="number" id="number-label">Age:</label>
+                <input type="number" id="number" name="age" placeholder="Enter your age" min="18" max="100" required><br><br>
+            </fieldset>
         </form>
     </div>
 </body>
